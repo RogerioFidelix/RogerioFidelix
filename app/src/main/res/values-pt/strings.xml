@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description">Descrição</string>
+    <string name="giant_description">Descrição Gigante</string>
+    <string name="hability">Habilidade</string>
+    <string name="speed">Velocidade</string>
+    <string name="attack">Ataque</string>
+    <string name="defense">Defesa</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">PokeAppD</string>
+    <string name="_1" translatable="false">#1</string>
+    <string name="charizard">Charizard</string>
+    <string name="description">Description</string>
+    <string name="giant_description">Giant Description</string>
+    <string name="hability">Hability</string>
+    <string name="hp" translatable="false">HP</string>
+    <string name="speed">Speed</string>
+    <string name="attack">Attack</string>
+    <string name="defense">Defense</string>
+</resources>
